@@ -1,21 +1,18 @@
 # IBRAR-ALI-PORTFOLIO-DATA-ENGINEER
 # Ibrar Ali - A Data Engineering Portfolio
 
- Exploring Data Realms: Ibrar Ali embarks on a journey through data engineering after a 3-year education in  Software Development , followed by 2 years specializing in  Data Engineering  
+ Exploring Data Realms: Ibrar Ali embarks on a journey through data engineering after a 4-year education in  Software Engineering , followed by 1 years experience in Websites and Web applications development and 1 year experience in Data specializing in  Data Engineering  
 
 ## About Me
 
- Based:  Ibrar Ali
-
- Current Job : Data Engineer | AI / NLP Engineer
-
+ Name:  Ibrar Ali
  Contact me:  
 
  Email:  ibrarali.se@gmail.com
 
  Linkedin : [My Profile](https://www.linkedin.com/in/ibraralise/)
 
-Hello, my name is Ibrar Ali! I am a data addict with a solid background in computer science and a love of numbers, statistics and data in general. With a degree in "BS Software Engineering - Software Development," I bring to the field of data a unique blend of technical expertise and an analytical approach. As a candidate seeking the role of  Data Engineer , I am delighted to demonstrate my technical, analytical and logical talents in the field of  Data Engineering  and  Data Science .
+Hello, my name is Ibrar Ali! I am a data addict with a solid background in Software Engineering and a love of numbers, statistics and data in general. With a degree in "BS Software Engineering - Software Development," I bring to the field of data a unique blend of technical expertise and an analytical approach. As a candidate seeking the role of  Data Engineer , I am delighted to demonstrate my technical, analytical and logical talents in the field of  Data Engineering  and  Data Science .
 
 During my time at university, I was the best at developing software and constructing websites that met the needs of the subjects. But then I realized that I might be better at dealing with data, so I applied my coding and software development skills to the  Data Science  playground. Now I can effectively declare that I can work with complex data and proficient in constructing efficient data pipelines, developing expansive data lakes, and optimizing data warehouses using a blend of programming expertise and cloud technologies. Furthermore, while taking classes at university laboratories, I obtained expertise in  leadership ,  data management ,  statistical analysis ,  machine learning  and  data manipulation , all of which I believe will be useful for my next adventure as a  Data Engineer .
 
@@ -63,8 +60,7 @@ In my portfolio, you'll find a collection of diverse data science and data analy
     - [Breast Cancer Prediction]
     - [Diabetes Analysis and Prediction]
     - [Used Car Price Analysis]()
-  - Spark SQL / PySpark
-    - [Billionaire Research And Exploration]
+ 
   - SQL
     - [AdventureWorks Practical Knowledge Showcase Project]
       - [Part 1 - Getting used to beginner level of SQL commands]
